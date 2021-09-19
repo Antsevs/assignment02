@@ -3,8 +3,12 @@
  *  Copyright 2021 Anthony Sevarino
  */
 
-/*
- *
+/* Ask user for order amount
+ * ask user for their state
+ * print their initial total
+ * print their tax which is 0 unless their state is WI
+ * if state is WI then tax is 0.55
+ * print final total
  */
 
 package Solution14;
