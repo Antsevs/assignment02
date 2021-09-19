@@ -1,3 +1,16 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution 12
+ *  Copyright 2021 Anthony Sevarino
+ */
+
+
+/* Get principal from user
+ * Get interest rate from user
+ * Get time in years from user
+ * use formula and include rate divided by 100 for correct notation
+ * print final worth
+ */
+
 package Solution12;
 
 import java.util.Scanner;
