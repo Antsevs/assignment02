@@ -7,8 +7,9 @@
 /* Get principal from user
  * Get interest rate from user
  * Get time in years from user
+ * get compounded interest from user
  * use formula and include rate divided by 100 for correct notation
- * print final worth
+ * print final rounded worth
  */
 
 package Solution13;
